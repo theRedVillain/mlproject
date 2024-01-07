@@ -1,0 +1,7 @@
+README.md
+setup.py
+iserveu_mlp.egg-info/PKG-INFO
+iserveu_mlp.egg-info/SOURCES.txt
+iserveu_mlp.egg-info/dependency_links.txt
+iserveu_mlp.egg-info/requires.txt
+iserveu_mlp.egg-info/top_level.txt
